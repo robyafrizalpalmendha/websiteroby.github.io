@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Beindog gite';
+    src: url('Beindoggite.woff2') format('woff2'),
+        url('Beindoggite.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Detrimental_PersonalUseOnly';
+    src: url('DetrimentalPersonalUseOnly.woff2') format('woff2'),
+        url('DetrimentalPersonalUseOnly.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
